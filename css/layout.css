@@ -24,6 +24,7 @@
 
 /* Positioning Classes */
 
+<<<<<<< HEAD
 .col-1 {
   width: 32%;
   margin-left: 2%;
@@ -39,3 +40,14 @@
 .last {
   margin-bottom: 2%;
 }
+=======
+col-1{
+  width: 32%;
+  float: left;
+  margin-left: 2%;
+}
+col-2{
+  width:66%;
+  float: left;
+}
+>>>>>>> 5aec079ac407971343f9963e8980f8af2068e2a6
